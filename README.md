@@ -3,7 +3,7 @@ FilterView is an android library extracted from the Google I / O 2018 applicatio
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Platform](https://img.shields.io/badge/platform-android-green.svg)](http://developer.android.com/index.html)
-[![](https://jitpack.io/v/hantrungkien/Awesome-Input-Layout.svg)](https://jitpack.io/#hantrungkien/Awesome-Input-Layout)
+[![](https://jitpack.io/v/hantrungkien/FilterView.svg)](https://jitpack.io/#hantrungkien/FilterView)
 
 <a><img src="./image/screenshot.png" width="200"></a>
 
@@ -21,7 +21,7 @@ allprojects {
 ````
 module/build.gradle
 ````gradle
-implementation 'com.github.hantrungkien:Awesome-Input-Layout:1.0.0'
+implementation 'com.github.hantrungkien:FilterView:v1.0.0'
 ````
 
 #### How to use please review in the demo app
